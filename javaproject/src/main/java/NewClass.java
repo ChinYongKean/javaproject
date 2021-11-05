@@ -16,7 +16,7 @@ public class NewClass {
         System.out.print("Hello YongKean");
         System.out.print("Hello YongKean");
         System.out.print("Hello YongKean");
-        System.out.print("Hello YongKean");
+        
 }
 }
     
