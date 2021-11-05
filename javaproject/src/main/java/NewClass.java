@@ -20,7 +20,7 @@ public class NewClass {
         
         Blankpink in your areaaaaa
                 ONE IN A MILLION
-                        Lets gooooo
+                        Lets gooooo00
 }
 }
     
