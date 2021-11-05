@@ -18,7 +18,7 @@ public class NewClass {
         System.out.print("Hello YongKean");
         
         
-        Blankpink in your area
+        Blankpink in your areaaaaa
 }
 }
     
