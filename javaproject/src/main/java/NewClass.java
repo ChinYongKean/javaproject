@@ -14,6 +14,7 @@ public class NewClass {
         System.out.print("Hello YunChen");
         System.out.print("Hello YongKean");
         System.out.print("Blackpink in your area");
+    }
 }
     
     
