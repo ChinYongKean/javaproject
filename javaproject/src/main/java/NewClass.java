@@ -18,9 +18,7 @@ public class NewClass {
         System.out.print("Hello YongKean");
         
         
-        Blankpink in your areaaaaa
-                ONE IN A MILLION
-                        Lets gooooo00
+        
 }
 }
     
